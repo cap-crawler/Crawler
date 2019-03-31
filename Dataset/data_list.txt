@@ -119,6 +119,7 @@ blog - 40 - 6000 (4800 : 1200)
 
 
 shop - 38 - 4400
+	train
     "http://shopping.interpark.com/product/productInfo.do?prdNo=5065709084&dispNo=001310&smid1=ad_recom",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=2494043157&smid1=ssendeal&smid2=pd&smid3=0",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=6248813497&smid1=ssendeal&smid2=pd&smid3=2",
@@ -149,6 +150,7 @@ shop - 38 - 4400
     "https://front.wemakeprice.com/product/101575236",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=4855016010",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=5133915886&dispNo=008014004",
+	test    
     "http://shopping.interpark.com/product/productInfo.do?prdNo=6431695606&dispNo=008022001",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=6388995211&dispNo=008022001",
     "http://shopping.interpark.com/product/productInfo.do?prdNo=5409021275&dispNo=008022001",
