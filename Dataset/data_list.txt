@@ -1,4 +1,4 @@
-news - 70 - 5600
+news - 70 - 5600 (4500:1100)
 	   "https://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=102&cid=1080997&iid=2987262&oid=005&aid=0001167116&ptype=052",
                  "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=103&oid=025&aid=0002880476",
                  "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=011&aid=0003493068",
@@ -71,7 +71,7 @@ news - 70 - 5600
                  "https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=022&aid=0003349846&date=20190327&type=1&rankingSeq=7&rankingSectionId=100"
 
 
-blog - 40 - 6000
+blog - 40 - 6000 (4800 : 1200)
     "https://blog.naver.com/kmjlove1983/221453447130",
     "https://blog.naver.com/rim7033/221453444004",
     "https://blog.naver.com/usk4660/221453440830",
