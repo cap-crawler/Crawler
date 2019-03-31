@@ -1,4 +1,5 @@
-news - 70 - 5600
+news - 70 - 5600 (4500:1100)
+	train
 	   "https://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=102&cid=1080997&iid=2987262&oid=005&aid=0001167116&ptype=052",
                  "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=103&oid=025&aid=0002880476",
                  "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=011&aid=0003493068",
@@ -56,7 +57,8 @@ news - 70 - 5600
                  "http://news.jtbc.joins.com/html/904/NB11789904.html?log=jtbc|news|index_newsN_B",
                  "http://news.jtbc.joins.com/html/538/NB11790538.html",
                  "http://news.jtbc.joins.com/html/900/NB11789900.html",
-                 "http://news.jtbc.joins.com/html/497/NB11790497.html",
+	test
+	   "http://news.jtbc.joins.com/html/497/NB11790497.html",
                  "http://news.jtbc.joins.com/html/496/NB11790496.html",
                  "http://news.jtbc.joins.com/html/504/NB11790504.html"
 	   "https://news.naver.com/main/read.nhn?oid=001&sid1=102&aid=0010721441&mid=shm&mode=LSD&nh=20190327110839",
@@ -71,7 +73,8 @@ news - 70 - 5600
                  "https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=022&aid=0003349846&date=20190327&type=1&rankingSeq=7&rankingSectionId=100"
 
 
-blog - 40 - 6000
+blog - 40 - 6000 (4800 : 1200)
+	train
     "https://blog.naver.com/kmjlove1983/221453447130",
     "https://blog.naver.com/rim7033/221453444004",
     "https://blog.naver.com/usk4660/221453440830",
@@ -105,6 +108,7 @@ blog - 40 - 6000
     "https://blog.naver.com/kingsuda/221498902056",
     "https://blog.naver.com/babyj_22/221498740725",
     "https://blog.naver.com/hellobangahi/221498537882",
+	test
     "https://blog.naver.com/sesjes/221498245603",
     "https://blog.naver.com/daianab/221498585566",
     "https://blog.naver.com/geami6783/221498861413",
