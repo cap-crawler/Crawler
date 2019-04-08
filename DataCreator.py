@@ -187,8 +187,8 @@ shop=[
     "http://item.gmarket.co.kr/Item?goodscode=1562572595"
 ]
 
-creator.makecsv(news,1)
+# creator.makecsv(news,1)
 # creator.makecsv(blog,2)
 # creator.makecsv(shop,3)
-end = time.time()
-print(end-start," secs")
+# end = time.time()
+# print(end-start," secs")

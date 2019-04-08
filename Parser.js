@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-var url = process.argv[2];
+// var url = process.argv[2];
 
 function printarray(array){
 	for(var i=0; i<array.length; i++){
@@ -161,14 +161,14 @@ async function parse(url){
 	await show(nodes);
 	await process.stdout.write(""+nodes[nodes.length-2]+"\n");
 	await process.stdout.write(""+nodes[nodes.length-1]+"\n");
-	await process.stdout.write(""+url);
+	await process.stdout.write(""+url+"\n");
 }
-parse(url);
-// process.stdin.setEncoding("utf-8");
-// process.stdout.setEncoding("utf-8");
-// process.stdin.on('readable', () => {
-// 	var url = process.stdin.read();
-// 	if(url){
-// 		parse(url);
-// 	}
-// });
+// parse(url);
+process.stdin.setEncoding("utf-8");
+process.stdout.setEncoding("utf-8");
+process.stdin.on('readable', () => {
+	var url = process.stdin.read();
+	if(url){
+		parse(url);
+	}
+});
