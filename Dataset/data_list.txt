@@ -93,7 +93,7 @@ blog - 40 - 6000 (4800 : 1200)
     "https://ggumtree.tistory.com/210",
     "https://xuronghao.tistory.com/1504",
     "https://ramideunioni.tistory.com/105",
-    "https://blog.naver.com/miniworldgo/221454277016",
+    "https://blog.naver.com/vkeo3136/221514905385",
     "https://blog.naver.com/skyblue20726/221454208373",
     "https://blog.naver.com/nas6249/221454295519",
     "https://blog.naver.com/bluejive1004/221454212607",
