@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 var node_list="";
 const kafka = require('kafka-node');
 
-let kafkaHost = 'kafka:9092';
+let kafkaHost = 'localhost:9092';
 
 const Consumer = kafka.Consumer;
 
