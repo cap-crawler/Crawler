@@ -2,10 +2,10 @@ import Node
 import subprocess
 from confluent_kafka import Consumer, KafkaError, Producer
 
-p = Producer({'bootstrap.servers': 'kafka:9092'})
+p = Producer({'bootstrap.servers': 'localhost:9092'})
 c = Consumer({
 
-    'bootstrap.servers': 'kafka:9092',
+    'bootstrap.servers': 'localhost:9092',
 
     'group.id': 'console-consumer-53678',
 
